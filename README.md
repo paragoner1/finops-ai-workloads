@@ -119,7 +119,7 @@ The scripts assume FOCUS v1.0 column names. If you're on AWS CUR 2.0 (which is F
 
 ## About
 
-Built by Ryan O'Meara ([paragoner1](https://github.com/paragoner1) on GitHub).
+Built by Paragoner ([paragoner1](https://github.com/paragoner1) on GitHub).
 
 17 years of federal healthcare finance leadership, including seven as CFO of a $750M VA healthcare system. FinOps Certified Practitioner, April 2026. Hands-on Rust on GPU infrastructure (Whisper inference, automated trading systems).
 
